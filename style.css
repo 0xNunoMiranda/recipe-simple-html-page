@@ -7,6 +7,7 @@
 body{
     background-image: url(./assets/bg-image.jpg);
     background-size: cover;
+    background-color: #573A37, rgba(0, 0, 0, 0.36);
 }
 
 #page{
@@ -43,4 +44,11 @@ p{
 h1, h2{
     color:#291B1A;
     margin-bottom: 4px;
+}
+
+footer{
+    margin-top: 12px;
+    color: #573A37;
+    text-align: center;
+    font-weight: 900;
 }
